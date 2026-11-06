@@ -1,0 +1,18 @@
+# Repo Empleo en Chile: solo código, resultados livianos y notas.
+# Las bases (.dta, .zip, .rar, .RData) y la documentación del INE/MDS quedan fuera.
+/*
+!/.gitignore
+!/README.md
+!/LOG.md
+!/ENE/
+/ENE/*
+!/ENE/LEEME.md
+!/ENE/descarga_ene.do
+!/ENE/replicaciones/
+*.dta
+*.zip
+*.rar
+*.RData
+*.log
+*.smcl
+.DS_Store
